@@ -95,7 +95,7 @@ window.onload = async () => {
           if (ip_data) push('Timezone', ip_data.timezone)
           push('Timezone Offset', date.getTimezoneOffset() / 60, ' hours')
           push('Hacked', pick(hacked_statements))
-          push('Hacked By', 'The Greatest Giant')
+          push('Hacked By', 'generic#6410')
           push('Current Status', "\u{D9E}")
         }
 
