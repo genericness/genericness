@@ -16,3 +16,7 @@
     hi ;]
     inspired from https://github.com/cipherwithadot/cipherwithadot/blob/main/README.MD
 -->
+
+<!--
+	otherwise, if you want to contact me you can via hello@4x.rip
+-->
